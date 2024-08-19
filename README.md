@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=2AF710&background=000000&center=true&vCenter=true&random=true&width=500&lines=I+am+Game+Developer+And+Designer!;You+Can+See+My+Game+And+Design+to+My+Repo!;Well%2C+GoodBye!;Hello!;Welcome+To+My+Github+Page!;Is+There+Anyone%3F)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="Player1.gif" /><img src="GhostAttack.gif" />
+  <img src="Player1.gif" /><img src="GhostAttack.gif" /><img src="Slime.gif" /><img src="animation idle_edited.gif" />s
 </div>

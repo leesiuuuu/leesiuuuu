@@ -3,5 +3,5 @@
 </p>
 
 <div align="center">
-  <img src="Player1.gif" /><img src="GhostAttack.gif" /><img src="Slime.gif" /><img src="animation idle_edited.gif" />
+  <img src="Player1.gif" style="width:50%;height:50%;"/><img src="GhostAttack.gif" /><img src="Slime.gif" /><img src="animation idle_edited.gif" />
 </div>

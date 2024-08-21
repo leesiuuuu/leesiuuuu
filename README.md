@@ -6,5 +6,6 @@
 </p>
 
 <div align="center">
-  <img src="Player1.gif" style="width:50%;height:50%;"/><img src="GhostAttack.gif" style="width:50%;height:50%;"/><img src="Slime.gif" style="width:50%;height:50%;"/><img src="animation idle_edited.gif" style="width:50%;height:50%;"/><img src="Player.gif" style="width:50%;height:50%;"/>
+  <img src="Player1.gif" style="width:50%;height:50%;"/><img src="GhostAttack.gif" style="width:50%;height:50%;"/><img src="Slime.gif" style="width:50%;height:50%;"/><img src="animation idle_edited.gif" style="width:50%;height:50%;"/><img src="Player.gif" style="width:50%;height:50%;"/><img src="Dark Wizard2.gif" style="width:50%;height:50%"/><img src="Shop Manager.gif" style="width:50%;height:50%"/>
+  <img src="player_move.gif" style="width:50%;height:50%"/>
 </div>

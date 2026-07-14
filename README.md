@@ -7,6 +7,9 @@
 
 <div align="center">
   <a href="https://www.git-ranker.com/ko/users/leesiuuuu"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOCfV4bw" alt="Git Ranker Badge" /></a>
+    <a href="https://solved.ac/leesiu1">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leesiu1" alt="Solved.ac 프로필">
+  </a>
 </div>
 
 
@@ -51,9 +54,3 @@
 
 <img src="https://raw.githubusercontent.com/leesiuuuu/leesiuuuu/output/snake.svg" alt="Snake animation" />
 
-###
-<p align="center">
-  <a href="https://solved.ac/leesiu1">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leesiu1" alt="Solved.ac 프로필">
-  </a>
-</p>
